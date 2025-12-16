@@ -1,6 +1,3 @@
-# nlp-sentiment-equity
-Why stocks move using AI-powered news analysis
-
 # News Attribution Pipeline
 
 Automatically explains why stocks move using AI-powered news analysis.
